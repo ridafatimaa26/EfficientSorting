@@ -28,3 +28,5 @@ Get to Windows > Preferences > Installed JREs > jdk-14.0.1 (or the latest versio
 
 Hope that Worked!!!
 
+Video Link:
+https://youtu.be/zkRrzWw-f1I
